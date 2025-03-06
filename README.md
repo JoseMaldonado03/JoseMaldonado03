@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Soy un apasionado del desarrollo web en constante aprendizaje. Desde agosto de 2024, he adquirido conocimientos en HTML, CSS y JavaScript y actualmente me especializo en React y React Native. 
+Soy un apasionado del desarrollo web en constante aprendizaje. Desde agosto de 2024, he adquirido conocimientos en HTML, CSS y JavaScript y actualmente me especializo en React y React Native.
+
 Busco seguir creciendo en el mundo del desarrollo frontend y lograr mi primera posición en esta área. ¡Conectemos! 🚀
 
 
