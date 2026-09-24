@@ -1,8 +1,30 @@
-## Hi there 👋
+## Hi, I'm José 👋
 
-Soy un apasionado del desarrollo web en constante aprendizaje. Desde agosto de 2024, he adquirido conocimientos en HTML, CSS y JavaScript y actualmente me especializo en React y React Native.
+> **Software Developer & Visual Artist**  
+> Uniendo la precisión de la programación con la sensibilidad del diseño visual.
 
-Busco seguir creciendo en el mundo del desarrollo frontend y lograr mi primera posición en esta área. ¡Conectemos! 🚀
+---
+
+### 💻 Sobre mí
+
+- 📍 Resido en Buenos Aires, Argentina.
+- ⚡ Especializado en desarrollo web con **TypeScript**, **Next.js** y **React**.
+- 🌐 Enfoque en arquitectura moderna, rendimiento de aplicaciones web y experiencia de usuario.
+- 🛠️ Trabajo diario en entornos **VS Code**, versionado en **Git** y maquetación técnica en **LaTeX**.
+
+### 🎨 Proyectos Creativos & Intereses
+
+- ✍️ Autor y maquetador de libros de poesía y prosa.
+- 🖌️ Artista plástico orientado a la pintura y la escultura de gran formato.
+- 🌐 Aprendiz continuo de idiomas.
+
+---
+
+📩 **Contacto & Enlaces**
+- **Portfolio:** [Link a tu web]
+- **LinkedIn:** [Tu Perfil]
+- **Correo:** [Tu Email]
+
 
 
 <!--
