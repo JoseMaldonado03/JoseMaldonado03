@@ -21,9 +21,9 @@
 ---
 
 📩 **Contacto & Enlaces**
-- **Portfolio:** [Link a tu web]
-- **LinkedIn:** [Tu Perfil]
-- **Correo:** [Tu Email]
+- **Portfolio:** arte.josemaldonado.me
+- **LinkedIn:** https://www.linkedin.com/in/josemaldonado03/
+- **Correo:** jose.efrain.mdn@gmail.com
 
 
 
